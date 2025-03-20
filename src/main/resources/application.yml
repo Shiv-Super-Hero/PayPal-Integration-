@@ -1,0 +1,4 @@
+paypal:
+  client-id: Erased due to confidential issue
+  client-secret: Erased due to confidential issue
+  mode: sandbox # Use #sandbox for testing and 'live' for production
